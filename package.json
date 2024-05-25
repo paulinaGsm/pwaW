@@ -1,0 +1,36 @@
+{
+  "name": "proyecto2",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^17.3.7",
+    "@angular/cdk": "^17.3.7",
+    "@angular/common": "^17.3.7",
+    "@angular/compiler": "^17.3.7",
+    "@angular/core": "^17.3.7",
+    "@angular/forms": "^17.3.7",
+    "@angular/material": "^17.3.7",
+    "@angular/platform-browser": "^17.3.7",
+    "@angular/platform-browser-dynamic": "^17.3.7",
+    "@angular/router": "^17.3.7",
+    "@angular/service-worker": "^17.3.7",
+    "sweetalert2": "^11.11.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/architect": "^0.1703.7",
+    "@angular-devkit/build-angular": "^17.3.7",
+    "@angular-devkit/core": "^17.3.7",
+    "@angular-devkit/schematics": "^17.3.7",
+    "@angular/cli": "^17.3.7",
+    "@angular/compiler-cli": "^17.3.7",
+    "@schematics/angular": "^17.3.7",
+    "typescript": "^5.3.3"
+  }
+}
